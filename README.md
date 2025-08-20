@@ -1,4 +1,9 @@
-# Hi there 👋
+# Ephantus 
+currently learning programming 
+Slow to react but quick to trials
+Talk money 💲 and now you owe me
+Never play with your income source
+
 
 <!--
 **ephantusngacha-lab/ephantusngacha-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
