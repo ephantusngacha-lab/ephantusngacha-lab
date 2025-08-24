@@ -8,7 +8,7 @@
 ---
 
 ## 🔥 About Me
-- 🌍 Based in [Your Location]  
+- 🌍 Based in Nairobi 
 - 🎯 Passionate about coding, problem-solving, and learning new technologies  
 - 💡 Always experimenting, learning, and building projects  
 
@@ -39,7 +39,7 @@
 ## 📫 How to reach me
 - 📧 Email: ephantusngacha@gmail.com  
 - 💼 LinkedIn: [Your LinkedIn link]  
-- 🐦 Twitter: [Your Twitter handle]  
+- 🐦 Twitter:  https://x.com/ephantus_ngacha?t=Q2WAsVSN5ObQnvesc3KgRA&s=09
 
 ---
 
