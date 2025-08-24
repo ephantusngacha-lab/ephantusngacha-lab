@@ -15,7 +15,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, C++ (edit with what you know/learning)  
+- **Languages:** Python, JavaScript, C++ 
+
 - **Web Dev:** HTML, CSS, React, Node.js  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, VS Code  
@@ -23,9 +24,12 @@
 ---
 
 ## 📌 Current Focus
-- 🌱 Learning: [Insert what you're learning now, e.g., "React & APIs"]  
-- 🤝 Looking to collaborate on: Open-source projects & coding challenges  
-- 💬 Ask me about: [Your area of interest]  
+- 🌱 Learning :Html,Python, JavaScript 
+- 🤝 Looking to collaborate on: Mastering Coding at professional level 
+- 💬 Ask me about:Html,Python JavaScript 
+
+
+  
 
 ---
 
@@ -38,7 +42,7 @@
 
 ## 📫 How to reach me
 - 📧 Email: ephantusngacha@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn link]  
+- 💼 LinkedIn:ephantus 
 - 🐦 Twitter:  https://x.com/ephantus_ngacha?t=Q2WAsVSN5ObQnvesc3KgRA&s=09
 
 ---
