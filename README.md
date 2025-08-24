@@ -37,7 +37,7 @@
 ---
 
 ## 📫 How to reach me
-- 📧 Email: [your-email@example.com]  
+- 📧 Email: ephantusngacha@gmail.com  
 - 💼 LinkedIn: [Your LinkedIn link]  
 - 🐦 Twitter: [Your Twitter handle]  
 
