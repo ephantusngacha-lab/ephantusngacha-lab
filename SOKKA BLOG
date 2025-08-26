@@ -70,7 +70,7 @@
   <!-- Copyright form -->
   <form>
     <h3>Copyright Input</h3>
-    <label for="copyright">Copyright Holder:</label>
+    <label for="EPHANTUS">Copyright"</label>
     <input type="text" id="EPHANTUS">
     <br><br>
     <button type="submit">Submit</button>
