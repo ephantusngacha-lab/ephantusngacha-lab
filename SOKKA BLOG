@@ -1,6 +1,91 @@
 <!DOCTYPE html>
-</html>
 <html lang="en">
-<meta charset="utf_8"/>
-<meta name="viewport" content="width_device, initial_scale=1"/>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BLOG POST</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
 
+    header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px 0;
+    }
+
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    form {
+      margin-top: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SEMANTIC HTML</h1>
+    <p>It's a requirement for all developers</p>
+  </header>
+
+  <!-- Example image -->
+  <img src="https://via.placeholder.com/800x300.png?text=Semantic+HTML+Example" alt="Semantic HTML Example">
+
+  <section>
+    <h2>Benefits</h2>
+    <ol>
+      <li>Accessibility</li>
+      <li>Ease of understanding</li>
+      <li>Maintainability</li>
+    </ol>
+  </section>
+
+  <!-- Example links -->
+  <section>
+    <h2>Useful Resources</h2>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/Semantics" target="_blank">MDN Web Docs on Semantics</a></li>
+      <li><a href="https://www.w3schools.com/html/" target="_blank">W3Schools HTML Tutorial</a></li>
+      <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    </ul>
+  </section>
+
+  <!-- Copyright form -->
+  <form>
+    <h3>Copyright Input</h3>
+    <label for="copyright">Copyright Holder:</label>
+    <input type="text" id="copyright" name="copyright" placeholder="Your Name or Company" value="EPHANTUS">
+    <br><br>
+    <button type="submit">Submit</button>
+  </form>
+
+  <footer>
+    <p>&copy; <span id="year"></span> EPHANTUS. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // Auto update year
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
