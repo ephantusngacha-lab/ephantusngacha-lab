@@ -48,7 +48,6 @@
     <p>It's a requirement for all developers</p>
   </header>
 
-  <!-- Example image -->
   <img src="https://via.placeholder.com/800x300.png?text=Semantic+HTML+Example" alt="Semantic HTML Example">
 
   <section>
@@ -59,9 +58,7 @@
       <li>Maintainability</li>
     </ol>
   </section>
-
-  <!-- Example links -->
-  <section>
+  </header>
     <h2>Useful Resources</h2>
     <ul>
       <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/Semantics" target="_blank">MDN Web Docs on Semantics</a></li>
@@ -74,7 +71,7 @@
   <form>
     <h3>Copyright Input</h3>
     <label for="copyright">Copyright Holder:</label>
-    <input type="text" id="copyright" name="copyright" placeholder="Your Name or Company" value="EPHANTUS">
+    <input type="text" id="EPHANTUS">
     <br><br>
     <button type="submit">Submit</button>
   </form>
